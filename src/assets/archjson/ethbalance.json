@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "name": "Ethereum",
+    "status": "Sync",
+    "meta": null,
+    "Lns": null,
+    "Lnx": null,
+    "Duran777": null,
+    "Alcatrazuno": null,
+    "Match": null
+  },
+  {
+    "id": 1,
+    "name": "Arbitrum",
+    "status": "Sync",
+    "meta": null,
+    "Lns": null,
+    "Lnx": null,
+    "Duran777": null,
+    "Alcatrazuno": null,
+    "Match": null
+  },
+  {
+    "id": 2,
+    "name": "Optimism",
+    "status": "Sync",
+    "meta": null,
+    "Lns": null,
+    "Lnx": null,
+    "Duran777": null,
+    "Alcatrazuno": null,
+    "Match": null
+  },
+  {
+    "id": 3,
+    "name": "ZKsync era",
+    "status": "Sync",
+    "meta": null,
+    "Lns": null,
+    "Lnx": null,
+    "Duran777": null,
+    "Alcatrazuno": null,
+    "Match": null
+  },
+  {
+    "id": 4,
+    "name": "ZKevm Polygon",
+    "status": "Sync",
+    "meta": null,
+    "Lns": null,
+    "Lnx": null,
+    "Duran777": null,
+    "Alcatrazuno": null,
+    "Match": null
+  },
+  {
+    "id": 5,
+    "name": "Weth Polygon",
+    "status": "Sync",
+    "meta": null,
+    "Lns": null,
+    "Lnx": null,
+    "Duran777": null,
+    "Alcatrazuno": null,
+    "Match": null
+  },
+  {
+    "id": 6,
+    "name": "ZKsync Lite",
+    "status": "Off",
+    "meta": 0.012,
+    "Lns": 0.0099,
+    "Lnx": 0,
+    "Duran777": 0,
+    "Alcatrazuno": 0,
+    "Match": 0
+  },
+  {
+    "id": 7,
+    "name": "Starknet",
+    "status": "Off",
+    "meta": 0.005,
+    "Lns": 0,
+    "Lnx": 0,
+    "Duran777": 0,
+    "Alcatrazuno": 0,
+    "Match": 0
+  },
+  {
+    "id": 8,
+    "name": "Weth Binance smart chain",
+    "status": "Sync",
+    "meta": null,
+    "Lns": null,
+    "Lnx": null,
+    "Duran777": null,
+    "Alcatrazuno": null,
+    "Match": null
+  }
+]
